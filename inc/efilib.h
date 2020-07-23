@@ -45,6 +45,8 @@ extern EFI_GUID gEfiDevicePathToTextProtocolGuid;
 #define DevicePathToTextProtocol gEfiDevicePathToTextProtocolGuid
 extern EFI_GUID gEfiDevicePathFromTextProtocolGuid;
 #define DevicePathFromTextProtocol gEfiDevicePathFromTextProtocolGuid
+extern EFI_GUID gEfiDevicePathUtilitiesProtocolGuid;
+#define DevicePathUtilitiesProtocol gEfiDevicePathUtilitiesProtocolGuid
 extern EFI_GUID gEfiLoadedImageProtocolGuid;
 #define LoadedImageProtocol gEfiLoadedImageProtocolGuid
 extern EFI_GUID gEfiSimpleTextInProtocolGuid;
